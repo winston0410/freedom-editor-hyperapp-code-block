@@ -2,7 +2,9 @@ import {
   getSavedData
 } from './utilities/helper.js'
 
-import { h, text, app } from 'hyperapp'
+import { app } from 'hyperapp'
+
+import h from './utilites/hyperapp-jsx.js'
 
 class Code {
   constructor (customOptions) {
