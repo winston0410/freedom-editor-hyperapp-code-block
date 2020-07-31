@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/winston0410/freedom-editor-hyperapp-code-block#readme",
   "dependencies": {
+    "@freedom-editor/core": "^1.0.7",
     "hyperapp": "^2.0.8"
   },
   "devDependencies": {
